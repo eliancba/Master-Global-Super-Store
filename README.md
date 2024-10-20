@@ -6,7 +6,7 @@
 Elian Alexander Pucheta - Analista de datos. \
 Este fue mi primer proyecto en la carrera Data Analystic de Henrry. \
 \
-El trabajo se encuentran dos archivos(.xlsx) alojados el la nube de Google Drive: \
+El trabajo se compone de dos archivos(.xlsx) alojados el la nube de Google Drive: \
   1- Master Global Super Store.(Dashboard) \
   2- Product Global Super Store.(Datos inciales)
 
