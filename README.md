@@ -1,7 +1,7 @@
 # Global Super Store
 <br>
 
-Elian Alexander Pucheta - Analista de datos.
+Elian Alexander Pucheta - Analista de datos. \
 Este fue mi primer proyecto en la carrera Data Analystic de Henrry.
 
 <br>
