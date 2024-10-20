@@ -1,6 +1,8 @@
 # Global Super Store
 <br>
 
+## Descripción
+
 Elian Alexander Pucheta - Analista de datos. \
 Este fue mi primer proyecto en la carrera Data Analystic de Henrry.
 
